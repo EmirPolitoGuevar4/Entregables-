@@ -1,0 +1,13 @@
+Los casos de uso que se encuentran en el script son:
+
+  Agregar un nuevo artículo al inventario:
+  El script permite agregar un artículo nuevo con una cantidad específica al inventario.
+
+  Eliminar un artículo del inventario:
+  El script permite eliminar un artículo existente en el inventario.
+
+  Actualizar la cantidad de un artículo existente:
+  El script permite actualizar la cantidad de un artículo que ya existe en el inventario.
+
+  Ver el inventario completo:
+  El script permite mostrar todos los artículos del inventario en forma de tabla.
