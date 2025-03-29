@@ -1,0 +1,13 @@
+1. Seguridad:
+Verificar datos: Necesitamos asegurarnos de que los datos ingresados por el usuario sean correctos, por ejemplo, que la cantidad de productos sea un número válido.
+Control de acceso: Solo ciertas personas deben poder modificar el inventario. Sería bueno agregar alguna forma de proteger el acceso con una contraseña o permisos especiales.
+
+2. Facilidad de uso:
+Interfaz más amigable : Actualmente, el script se usa desde la terminal, lo que puede ser complicado para algunos. Sería útil agregar una interfaz gráfica para hacerlo más fácil de usar.
+Mensajes de error claros : Si algo sale mal, el sistema debería mostrar mensajes más claros para que el usuario sepa qué hacer.
+
+3. Mantenimiento:
+Guardar los datos : El inventario se pierde cuando se cierra el programa. Sería necesario guardarlo en una base de datos o archivo para que la información no se pierda.
+
+4. Escalabilidad:
+Manejo de grandes cantidades: Si el inventario crece mucho, el script podría volverse lento. Se mejorar el rendimiento para manejar más productos de forma eficiente.
